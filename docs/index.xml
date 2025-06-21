@@ -6,22 +6,28 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>00关于我</title>
-    <link>https://quartz.jzhao.xyz/00%E5%85%B3%E4%BA%8E%E6%88%91</link>
-    <guid>https://quartz.jzhao.xyz/00%E5%85%B3%E4%BA%8E%E6%88%91</guid>
-    <description> 現在、北京語言大学の博士課程に在学中。 広西大学修士課程修了 (優秀卒業生)。 01研究事例.</description>
-    <pubDate>Sat, 21 Jun 2025 03:35:09 GMT</pubDate>
+    <title>002口頭発表</title>
+    <link>https://quartz.jzhao.xyz/002%E5%8F%A3%E9%A0%AD%E7%99%BA%E8%A1%A8</link>
+    <guid>https://quartz.jzhao.xyz/002%E5%8F%A3%E9%A0%AD%E7%99%BA%E8%A1%A8</guid>
+    <description>2025年 2025.7.28（予定）内蒙古师范大学.数字红楼梦还远吗？ 2025.5.17《红楼梦》日译本笑态翻译计量对比研究（A Quantitative Comparative Study on the Japanese Translation of Smile in “Dream of the Red Chamber” ） 第十七届北京大学外国语言文学研究生论坛（北京大学） 2024年.</description>
+    <pubDate>Sat, 21 Jun 2025 04:22:39 GMT</pubDate>
   </item><item>
-    <title>01研究事例</title>
-    <link>https://quartz.jzhao.xyz/01%E7%A0%94%E7%A9%B6%E4%BA%8B%E4%BE%8B</link>
-    <guid>https://quartz.jzhao.xyz/01%E7%A0%94%E7%A9%B6%E4%BA%8B%E4%BE%8B</guid>
-    <description>研究論文 王子睿 &amp; 祁天娇. (2025). 日本数字文化资源整合的历程与借鉴. 图书馆.</description>
-    <pubDate>Sat, 21 Jun 2025 03:35:09 GMT</pubDate>
+    <title>001研究事例</title>
+    <link>https://quartz.jzhao.xyz/001%E7%A0%94%E7%A9%B6%E4%BA%8B%E4%BE%8B</link>
+    <guid>https://quartz.jzhao.xyz/001%E7%A0%94%E7%A9%B6%E4%BA%8B%E4%BE%8B</guid>
+    <description>執筆査読中 王子睿.数字红楼梦还远吗？（Is Digital “Dream of the Red Chamber” Still Far Away?） 王子睿.日译本笑态翻译计量对比研究(A Quantitative Comparative Study on the Translation of Laughter in Japanese Versions) 王子睿.基于Atlas.ti的日本数字档案馆建设政策质性分析（A Qualitative Analysis of Japan’s Digital Archiving Policy Based on Atlas.ti） 研究論文 王子睿 &am...</description>
+    <pubDate>Sat, 21 Jun 2025 04:21:10 GMT</pubDate>
+  </item><item>
+    <title>000自己紹介</title>
+    <link>https://quartz.jzhao.xyz/000%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B</link>
+    <guid>https://quartz.jzhao.xyz/000%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B</guid>
+    <description>履歴 PDを目指している 現在、北京語言大学の博士課程に在学中(2026)。 **広西大学修士課程修了 (~2023) 非常勤歴 中国人民大学数字人文研究院 学生研究员（2024-2025）Student Researcher, Renmin University of China, Academy of Digital Humanities 日本デジタルヒューマニティーズの最新学術情報を中国に紹介・翻訳 北京语言大学外国语学部 日语兼职讲师（2023-2024）Part-time Lecturer (Japanese), Faculty of Foreign Languages, Beiji...</description>
+    <pubDate>Sat, 21 Jun 2025 04:20:33 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>00关于我 01研究事例.</description>
+    <description>000自己紹介 001研究事例.</description>
     <pubDate>Sat, 21 Jun 2025 03:35:09 GMT</pubDate>
   </item><item>
     <title>TEIメモー</title>
